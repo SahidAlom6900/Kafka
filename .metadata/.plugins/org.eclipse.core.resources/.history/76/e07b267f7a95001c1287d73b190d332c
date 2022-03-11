@@ -1,0 +1,5 @@
+package com.technpelevate.kafka.config;
+
+public class KafkaConsumeConfig {
+
+}

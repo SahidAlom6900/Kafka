@@ -1,0 +1,7 @@
+package com.technpelevate.kafka.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public class KafkaRepository implements JpaRepository<T, ID> {
+
+}

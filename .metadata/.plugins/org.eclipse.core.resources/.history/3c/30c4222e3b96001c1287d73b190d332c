@@ -1,0 +1,5 @@
+package com.technpelevate.kafka.service;
+
+public class UserServiceImpl {
+
+}

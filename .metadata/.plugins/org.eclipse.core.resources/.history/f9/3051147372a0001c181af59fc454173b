@@ -1,0 +1,7 @@
+package com.te;
+
+public class SubSequenceSeries {
+	public static void main(String[] args) {
+
+	}
+}

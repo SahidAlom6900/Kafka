@@ -1,0 +1,6 @@
+1645696870294	Rename resource 'application.properties'
+1645700980018	Rename type 'KafkaConfig'
+1645701171379	Rename local variable 'map'
+1645794117879	Rename type 'KafkaServiceImpl'
+1645794155524	Copy compilation unit
+1645794171503	Rename type 'KafkaService'

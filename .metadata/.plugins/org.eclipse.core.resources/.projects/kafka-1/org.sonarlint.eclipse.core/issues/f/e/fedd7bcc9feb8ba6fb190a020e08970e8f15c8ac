@@ -1,0 +1,9 @@
+
+h	java:S106"9Replace this use of System.out or System.err by a logger.(—Ã½ìúÿÿÿÿH-RMAJORZ
+CODE_SMELL
+b
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ºÒñÛò/H4RMINORZ
+CODE_SMELL
+
+java:S1128	"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8ºÒñÛò/H5RMINORZ
+CODE_SMELL
